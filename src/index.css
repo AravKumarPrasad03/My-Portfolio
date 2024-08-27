@@ -1,0 +1,10 @@
+/* Example in index.css */
+@media (max-width: 768px) {
+    body {
+        padding: 1rem;
+    }
+
+    .container {
+        padding: 0 1rem;
+    }
+}
