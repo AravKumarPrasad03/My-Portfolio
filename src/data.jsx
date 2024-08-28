@@ -170,7 +170,7 @@ export const resume = [
     icon: <FaGraduationCap />,
     year: '2021-2025',
     title: 'Bachelor of Engineering <span> Chandigarh University </span>',
-    desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor incididunt ut labore',
+    desc: 'I am pursuing My Bachelors Degree , and I am a Final Year Student',
   },
 
   {
