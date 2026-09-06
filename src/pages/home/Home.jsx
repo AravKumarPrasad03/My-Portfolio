@@ -12,10 +12,10 @@ export const Home = () => {
       <div className='home__content'>
         <div className='home__data'>
           <h1 className='home__title'>
-            <span>I,m Arav Kumar Prasad.</span> FullStack Developer  
+            <span>I,m Arav Kumar Prasad.</span> Consultant  
           </h1>
 
-          <p className="home__description">I'm Chandigarh based web designer & Full-Stack Developer focused on crafting clear & user-friendly experience. I am passionate about building excellent software that improves that lives of those around me</p>
+          <p className="home__description">I work as a Consultant at PwC, supporting clients in designing, implementing, and strengthening management systems to achieve ISO certification and compliance.</p>
 
           <Link to='/about' className='button'>
             More About Me {' '}
